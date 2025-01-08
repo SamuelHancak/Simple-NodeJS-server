@@ -15,8 +15,7 @@ This project provides a simple Express server that generates and serves random d
 1. Clone the repository:
 
    ```sh
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/SamuelHancak/Simple-NodeJS-server
    ```
 
 2. Install the dependencies:
